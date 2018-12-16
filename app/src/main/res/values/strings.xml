@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Androboum</string>
+    <string name="title">L\'application qui fait boum !</string>
+    <string name="btnStart">Démarrer</string>
+
+    <string name="facebook_application_id" translatable="false">1809914232370472</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1809914232370472</string>
+
+    <string name="action_logout">Déconnecter</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="imageUploaded">L\'image a été téléchargé</string>
+    <string name="filter_dialog_title">Filtrer</string>
+    <string name="bomb">BOMB IT</string>
+    <string name="email">email</string>
+
+</resources>

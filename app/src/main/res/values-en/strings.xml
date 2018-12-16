@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Androboum</string>
+    <string name="title">The bombing application !</string>
+    <string name="btnStart">Start</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageUploaded">The image has been uploaded</string>
+    <string name="filter_dialog_title">Filter</string>
+    <string name="bomb">BOMB IT</string>
+    <string name="email">mail</string>
+</resources>
